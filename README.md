@@ -1,5 +1,3 @@
-# SMT
+# Endpoint Security Solution Tool
 
-Endpoint Security Solution Tool
-
-An application for managing Trellix software in the VW Group, coded in Powershell and Windows Forms
+An all-in-one application for managing Trellix software in the VW Group, coded in Powershell and Windows Forms
