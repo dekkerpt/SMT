@@ -4,4 +4,5 @@ An all-in-one application for managing Trellix software, coded in Powershell and
 
 Developed for a very specific enterprise environment.
 
-It won't work elsewhere
+It won't work elsewhere.
+
